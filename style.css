@@ -27,7 +27,7 @@
 
 .container form{
     width: 90%;
-    max-width: 500px;
+    max-width: 520px;
     padding: 50px 30px 20px;
     background: #fff;
     border-radius: 4px;
@@ -67,7 +67,7 @@
     font-size: 16px;
 }
 ::placeholder{
-    font-size: 14px;
+    font-size: 24px;
 }
 
 form button{
@@ -83,7 +83,7 @@ form button{
 }
 .input-group span{
     position: absolute;
-    bottom: 12px;
+    bottom: 22px;
     right: 17px;
     font-size: 14px;
     color: red;
